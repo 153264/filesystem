@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.1.0",
-        "topthink/framework": "^6.0.0",
+        "topthink/framework": "~6.0.0",
         "qiniu/php-sdk": "^7.2",
         "aliyuncs/oss-sdk-php": "^2.3",
         "qcloud/cos-sdk-v5": "^2.0"
